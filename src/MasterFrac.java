@@ -1,5 +1,5 @@
 
-public class MasterFrac {
+public abstract class MasterFrac {
 	private String name = "To infinity and beyond with Rational Numbers";
 	private String versionNum = "V1.0.0";
 	private String authorName = "Atousa Saleh";
